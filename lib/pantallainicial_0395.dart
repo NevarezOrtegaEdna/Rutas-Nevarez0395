@@ -140,7 +140,7 @@ class Pantallainicial_0395 extends StatelessWidget {
             onPressed: () {
               Navigator.pushNamed(context, '/Pantalla16_0395');
             },
-            child: const Text('Text4 p16',
+            child: const Text('Containers4 p16',
                 style: TextStyle(color: Color(0xffffffff))),
             style: ElevatedButton.styleFrom(primary: Color(0xff005a50)),
           ),
